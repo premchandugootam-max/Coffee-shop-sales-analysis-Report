@@ -46,7 +46,5 @@ Provide stakeholders a compact, interactive view to:
 - Spot high/low sales days and seasonal patterns.
 - Compare store performance and detect location-level trends.
 
-## 📁 Repository Contents
-- Power BI report file (`.pbix`)
-
+  
 ---
